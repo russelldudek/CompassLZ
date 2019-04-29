@@ -41,7 +41,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/compass-lz-128x128.png",
     "noImageResize": "",
     "google-analytics": "",
-    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='cookie.html'>Cookie Policy</a>.",
+    "cookiesAlert": "",
     "gdpr": "By continiung you agree to our <a href='terms.html'>Terms of Use</a> and <a href='privacy.html'>Privacy Policy</a>.",
     "uniqCompNum": 352,
     "versionPublish": "4.9.6",
