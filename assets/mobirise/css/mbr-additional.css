@@ -10334,10 +10334,13 @@ body {
 .cid-roLBvqfyE0 {
   padding-top: 135px;
   padding-bottom: 105px;
-  background-image: url("../../../assets/images/background4.jpg");
+  background-color: #149dcc;
 }
 #RSRCULADVContactForm-17 SMALL {
-  color: #767676;
+  color: #ffffff;
+}
+#RSRCULADVContactForm-17 H3 {
+  color: #ffffff;
 }
 #RSRCULADVContactForm-17 h3 {
   font-size: 3em;
