@@ -7,7 +7,7 @@
       "title": "Mobirise 4",
       "styling": {
         "primaryColor": "#149dcc",
-        "secondaryColor": "#ff6600",
+        "secondaryColor": "#ff6c0e",
         "successColor": "#149dcc",
         "infoColor": "#82786E",
         "warningColor": "#879A9F",
@@ -30,7 +30,8 @@
       "additionalSetColors": [
         "#ff6600",
         "#9e3f00",
-        "#b14803"
+        "#b14803",
+        "#ff6c0e"
       ]
     },
     "path": "@PROJECT_PATH@",
