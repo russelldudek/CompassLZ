@@ -12099,13 +12099,19 @@ body {
 .cid-rp8PThukrL .mbr-links-column {
   color: #149dcc;
 }
-.cid-roLBvqfyE0 {
+.cid-rpiThkWnpN {
   padding-top: 135px;
   padding-bottom: 105px;
-  background-image: url("../../../assets/images/background4.jpg");
+  background-color: #149dcc;
 }
 #RSRCULADVContactForm-16 SMALL {
-  color: #767676;
+  color: #ffffff;
+}
+#RSRCULADVContactForm-16 H3 {
+  color: #ffffff;
+}
+#RSRCULADVContactForm-16 SPAN {
+  color: #ffffff;
 }
 #RSRCULADVContactForm-16 h3 {
   font-size: 3em;
