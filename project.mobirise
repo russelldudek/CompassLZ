@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CompassLZ",
-    "currentPage": "photo.html",
+    "currentPage": "contact.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -12364,7 +12364,7 @@
             "bgColor": "#ffffff",
             "overlay": true,
             "overlayColor": "#ff6c0e",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.4"
           },
           "datePrompt": "Arrival Date",
           "datePrompt2": "Departure Date",
@@ -14514,7 +14514,7 @@
             "bgColor": "#ffffff",
             "overlay": true,
             "overlayColor": "#ff6c0e",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.4"
           },
           "datePrompt": "Arrival Date",
           "datePrompt2": "Departure Date",
