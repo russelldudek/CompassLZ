@@ -5456,48 +5456,76 @@ body {
 .cid-rlKKDTFEQL UL {
   text-align: center;
 }
-.cid-rlKKEgRNdR {
-  padding-top: 90px;
-  padding-bottom: 75px;
+.cid-rpjN9rigHd {
+  padding-top: 60px;
+  padding-bottom: 60px;
   background-color: #149dcc;
 }
-.cid-rlKKEgRNdR h3 {
-  text-align: center;
-  font-weight: 300;
-}
-.cid-rlKKEgRNdR .wrap {
-  width: 150px;
-  height: 150px;
-  margin: 0 auto;
-}
-.cid-rlKKEgRNdR .mbr-section-subtitle {
+.cid-rpjN9rigHd .mbr-section-subtitle {
   color: #ffffff;
 }
-.cid-rlKKEgRNdR .card {
-  -webkit-flex-basis: 100%;
-  flex-basis: 100%;
-  word-wrap: break-word;
-}
-.cid-rlKKEgRNdR ellipse {
-  stroke: rgba(206, 206, 206, 0.4);
-}
-.cid-rlKKEgRNdR path {
-  stroke: #ff6c0e;
-}
-@media (max-width: 991px) and (min-width: 768px) {
-  .cid-rlKKEgRNdR .card {
-    -webkit-flex-basis: 33%;
-    flex-basis: 33%;
-  }
-}
-.cid-rlKKEgRNdR .mbr-section-title {
+.cid-rpjN9rigHd H2 {
   color: #ffffff;
 }
-.cid-rlKKEgRNdR H4 {
-  color: #ffffff;
+.cid-rpjJGisk9A {
+  padding-top: 60px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
 }
-.cid-rlKKEgRNdR P {
-  color: #ffffff;
+.cid-rpjJGisk9A .mbr-slider .carousel-control {
+  background: #1b1b1b;
+}
+.cid-rpjJGisk9A .mbr-slider .carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-rpjJGisk9A .mbr-slider .carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+.cid-rpjJGisk9A .mbr-slider .modal-body .close {
+  background: #1b1b1b;
+}
+.cid-rpjJGisk9A .mbr-gallery-item > div::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: #554346;
+  opacity: 0;
+  -webkit-transition: 0.2s opacity ease-in-out;
+  transition: 0.2s opacity ease-in-out;
+}
+.cid-rpjJGisk9A .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+  background: transparent !important;
+}
+.cid-rpjJGisk9A .mbr-gallery-item > div:hover:before {
+  opacity: 0.7 !important;
+}
+.cid-rpjJGisk9A .mbr-gallery-title {
+  font-size: .9em;
+  position: absolute;
+  display: block;
+  width: 100%;
+  bottom: 0;
+  padding: 1rem;
+  color: #fff;
+  z-index: 2;
+}
+.cid-rpjJGisk9A .mbr-gallery-title:before {
+  content: " ";
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  position: absolute;
+  background: #554346 !important;
+  opacity: 0.7;
+  -webkit-transition: 0.2s background ease-in-out;
+  transition: 0.2s background ease-in-out;
 }
 .cid-rp8UJSSbQH {
   padding-top: 90px;
