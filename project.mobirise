@@ -12394,6 +12394,9 @@
             },
             "H3": {
               "color": "#ffffff"
+            },
+            "SPAN": {
+              "color": "#ffffff"
             }
           },
           "_anchor": "RSRCULADVContactForm-17",
